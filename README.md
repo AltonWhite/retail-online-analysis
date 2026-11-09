@@ -40,7 +40,7 @@ The original dataset contains 541,909 transaction records and eight columns.
 
 ## Project Structure
 
-retail-online-analysis/
+'''retail-online-analysis/
 ├── data/
 │   ├── Online Retail.xlsx
 │   ├── product_sales.csv
@@ -70,7 +70,7 @@ retail-online-analysis/
 │   ├── 08_top_ten_non_uk_countries_by_quantity.png
 │   └── 08_top_ten_non_uk_countries_by_revenue.png
 └── README.md
-
+'''
 
 ## Analysis and Key Findings
 
