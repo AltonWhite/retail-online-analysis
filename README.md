@@ -71,6 +71,7 @@ retail-online-analysis/
 │   └── 08_top_ten_non_uk_countries_by_revenue.png
 └── README.md
 
+
 ## Analysis and Key Findings
 
 ### Notebook 01: Data Inspection
